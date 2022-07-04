@@ -33,16 +33,13 @@ Remember that your README should:
 
 ![alt text](https://github.com/rajshekar2591/udacity_ML_Engineer/blob/main/dog_breed_classification/images/Screen%20Shot%202022-07-03%20at%201.47.19%20PM.png)
 
-images/Screen Shot 2022-07-03 at 1.47.30 PM.png
+![alt text](https://github.com/rajshekar2591/udacity_ML_Engineer/blob/main/dog_breed_classification/images/Screen%20Shot%202022-07-03%20at%201.48.39%20PM.png)
 
-images/Screen Shot 2022-07-03 at 1.48.39 PM.png
+![alt text](https://github.com/rajshekar2591/udacity_ML_Engineer/blob/main/dog_breed_classification/images/Screen%20Shot%202022-07-03%20at%201.49.01%20PM.png)
 
-images/Screen Shot 2022-07-03 at 1.49.01 PM.png
+![alt text](https://github.com/rajshekar2591/udacity_ML_Engineer/blob/main/dog_breed_classification/images/Screen%20Shot%202022-07-03%20at%201.49.19%20PM.png)
 
-images/Screen Shot 2022-07-03 at 1.49.19 PM.png
-
-images/Screen Shot 2022-07-03 at 1.49.35 PM.png
-
+![alt text](https://github.com/rajshekar2591/udacity_ML_Engineer/blob/main/dog_breed_classification/images/Screen%20Shot%202022-07-03%20at%201.49.35%20PM.png)
 
 
 
@@ -70,7 +67,8 @@ For the profiler, used the following steps.
 
 The profiler report shows the time it took for completing the training and also the hardware utilization while training. The training loss was decreasing and so as the validation loss apart from a minor peak and then going down post that.
 
-images/Screen Shot 2022-07-03 at 2.09.22 PM.png
+![alt text](https://github.com/rajshekar2591/udacity_ML_Engineer/blob/main/dog_breed_classification/images/Screen%20Shot%202022-07-03%20at%202.09.22%20PM.png)
+
 
 The profiler report can be found at dog_breed_classification/ProfilerReport/profiler-output/profiler-report.html
 
@@ -86,7 +84,7 @@ The model was deployed to an endpoint on Sagemaker with an instance type of "ml.
 
 **TODO** Remember to provide a screenshot of the deployed active endpoint in Sagemaker.
 
-![alt text](images/Screen Shot 2022-07-03 at 1.51.12 PM.png)
+![alt text](https://github.com/rajshekar2591/udacity_ML_Engineer/blob/main/dog_breed_classification/images/Screen%20Shot%202022-07-03%20at%201.51.12%20PM.png)
 
 ## Standout Suggestions
 **TODO (Optional):** This is where you can provide information about any standout suggestions that you have attempted.
