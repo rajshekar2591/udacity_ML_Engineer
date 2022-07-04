@@ -86,7 +86,7 @@ The model was deployed to an endpoint on Sagemaker with an instance type of "ml.
 
 **TODO** Remember to provide a screenshot of the deployed active endpoint in Sagemaker.
 
-images/Screen Shot 2022-07-03 at 1.51.12 PM.png
+![alt text](images/Screen Shot 2022-07-03 at 1.51.12 PM.png)
 
 ## Standout Suggestions
 **TODO (Optional):** This is where you can provide information about any standout suggestions that you have attempted.
