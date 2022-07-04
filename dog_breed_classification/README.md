@@ -31,7 +31,7 @@ Remember that your README should:
 - Tune at least two hyperparameters
 - Retrieve the best best hyperparameters from all your training jobs
 
-https://github.com/rajshekar2591/udacity_ML_Engineer/blob/main/dog_breed_classification/images/Screen%20Shot%202022-07-03%20at%201.47.19%20PM.png
+![alt text](https://github.com/rajshekar2591/udacity_ML_Engineer/blob/main/dog_breed_classification/images/Screen%20Shot%202022-07-03%20at%201.47.19%20PM.png)
 
 images/Screen Shot 2022-07-03 at 1.47.30 PM.png
 
