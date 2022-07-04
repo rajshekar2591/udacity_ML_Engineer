@@ -21,8 +21,10 @@ I used resnet18 pretrained model initialized with imagenet weights and used tran
 
 Used below hyperparameters along with the range:
 
-Learning Rate: linear search space from 0.001 to 0.1,
-batch-size: categorical search space of 16,32,64,
+Learning Rate: linear search space from 0.001 to 0.1
+
+batch-size: categorical search space of 16,32,64
+
 epochs: Integer search space of 2,4
 
 Remember that your README should:
